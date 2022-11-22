@@ -1,0 +1,77 @@
+
+.bodyPage{
+    padding: 50px;
+}
+.contenedorHome{
+    padding: 0px;
+    width: 100%;
+    background-color: #615eb9;
+    margin: 0px;
+    height: 250px;
+    text-align: center;
+    color: white;
+    font-size: 800%;
+    font-family: sans-serif;
+}
+.otro{
+    text-align:right;
+    margin-right: 150px;
+    margin-top: -230px;
+    font-size: 30px;
+}
+
+.proyectos{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.subtemas{
+    font-size: 50px;
+}
+
+@media (max-width:768px) {
+    .bodyPage{
+        margin: 0px;
+        margin-right: 50px;
+        margin-left: 0px;
+        width: 700px;
+       
+    }
+    .contenedorHome{
+        padding: 0px;
+        width: 700px;
+        background-color: #615eb9;
+        margin: 0px;
+        height: 200px;
+        font-family: sans-serif;
+    }
+    .tituloHome {
+        text-align: start;
+        padding: 50px;
+        font-size: 50px;
+    }
+
+    
+
+    
+    .otro{
+        text-align:right;
+        margin-left: 50px;
+        margin-top: -250px;
+        font-size: 30px;
+    }
+
+    .subtemas{
+        margin-top: 50px;
+        font-size: 50px;
+        text-align: center;
+    }
+    .card-title{
+        font-size: 40px;
+        color: brown;
+    }
+    
+    
+   
+}

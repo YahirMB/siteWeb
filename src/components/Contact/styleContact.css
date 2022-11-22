@@ -1,0 +1,29 @@
+
+
+.tituloContacto{
+    font-size: 100px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.subtemavideo{
+    font-size: 30px;
+}
+
+.bodyVideo{
+    padding: 50px; 
+}
+
+@media (max-width:768px) {
+    .tituloContacto{
+        font-size: 60px;
+        margin-top: 50px;
+        text-align: center;
+    }
+    .subtemavideo{
+        font-size: 38px;
+    }
+    .bodyVideo{
+        padding: auto; 
+    }
+}

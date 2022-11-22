@@ -1,0 +1,61 @@
+.bodyExp{
+   padding: 50px;
+}
+.cardColor{
+   background-color: #070629;
+   
+}
+
+
+.icono{
+   
+   font-size: 50px;
+   padding: 10px;
+   
+}
+.iconoa{
+   color: rgb(6, 124, 6);
+}
+.iconob{
+   color: aqua;
+}
+.iconoc{
+   color: rgb(230, 226, 29);
+}
+.iconod{
+   color: rgb(20, 33, 211);
+}
+.iconof{
+   color: rgb(21, 255, 0);
+}
+
+.contenedorE{
+   position: static;
+ 
+   border-color:#5e5e64;
+   border-width: 1px;
+   background-color: transparent;
+
+}
+
+.headerE{
+   font-size:20px;
+   height: 120px;
+   background-color: #0a08364b;
+}
+
+.palabra{
+   text-align: end;
+   font-size: 35px;
+   color: aliceblue;
+}
+
+@media (max-width:768px) {
+
+   .headerE{
+      color: rgb(208, 208, 214);
+      font-size: 30px;
+      height: 120px;
+      background-color: #0a08364b;
+   }
+}
