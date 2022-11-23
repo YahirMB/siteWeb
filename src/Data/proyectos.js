@@ -5,8 +5,8 @@ export const proyectos = [
         id:1,
         name:'Java',
         nombreProyecto:'Gestion y control de operaciones de aduanas',
-        description:'Este lenguaje es de gran ayuda ya que es una de los lenguajes que fueron de los primeros al salir y bueno '
-        +'ya hablando un poco de lo que realice fue un proyecto en estadias además teniendo varias herramientas de desarrollo con neatbeans,librerias, plugins.puede realizar una app de escrito.',
+        description:'Este lenguaje es de gran ayuda, ya que es una de los lenguajes que fueron de los primeros al salir y bueno '
+        +'ya hablando un poco de lo que realice fue un proyecto en estadías además teniendo varias herramientas de desarrollo con NetBeans,librerias, plugins. Puede realizar una app de escrito.',
         requerimiento:[
             {
                 id:1,
@@ -27,8 +27,8 @@ export const proyectos = [
         id:2,
         name:'Angular',
         nombreProyecto:'App de restaurante',
-        description:'Unos de los Frameworks que se usa en la actualidad que hace varios meses ni tenía idea que existia pero siembargo me dejo una gran experiencia de trabajo por que con este'
-        +' pude realizar un aplicación movil incluyendo ionic y apache cordova. La aplicación era sobre un restaurante donde realizaba operaciones de un crud junto con monogodb',
+        description:'Unos de los Frameworks que se usa en la actualidad que hace varios meses ni tenía idea que existía, pero si embargo me dejo una gran experiencia de trabajo porque con eso'
+        +' pude realizar una aplicación móvil incluyendo ionic y apache cordova. La aplicación era sobre un restaurante donde realizaba operaciones de un crud junto con MongoDB',
         requerimiento:[
             {
                 id:1,
@@ -49,8 +49,8 @@ export const proyectos = [
         id:3,
         name:'Reactjs',
         nombreProyecto:'Super heroes',
-        description:'Este otro Framework que apenas estoy aprendiendo y para ser honestos era de los que no habia conprendido al principio pero con el tiempo y la practica fui conociendo y entendiendo'
-        +' en como lo podria utilizar, en este framework he realizado pequeños proyecto para poder entener cada hooks,funtional components,entre tester de react.',
+        description:'Este otro Framework que apenas estoy aprendiendo y para ser honestos era de los que no había comprendido al principio, pero con el tiempo y la práctica fui conociendo y entendiendo'
+        +' en como lo pudría utilizar, en este framework he realizado pequeños proyecto para poder entender cada hooks, funtional components, entre tester de react.',
         requerimiento:[
             {
                 id:1,
