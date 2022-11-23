@@ -1,11 +1,10 @@
 
 
-export const CardProyecto = ({name,description,src}) => {
+export const CardProyecto = ({name,description,src,id}) => {
     return (
         <>
-      
 
-            <div className="col-sm-12 col-lg-4  mt-5" >
+            <div className="col-sm-12 col-lg-4 mt-5">
                 <div className="card cardP">
                     <img src={src} className="card-img-top " alt="..." />
                     <div className="card-body">

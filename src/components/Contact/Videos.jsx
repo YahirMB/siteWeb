@@ -2,8 +2,8 @@ import React from 'react'
 import ReactPlayer from 'react-player'
 // require('../../assets/')
 
-import Video from '../../../docs/assets/proyectoEstadias.mp4'
-import Video2 from '../../../docs/assets/VeniFoodApp.mp4'
+import Video from '../../../assets/proyectoEstadias.mp4'
+import Video2 from '../../../assets/VeniFoodApp.mp4'
 export const Videos = () => {
     return (
         <>

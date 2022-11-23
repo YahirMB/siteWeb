@@ -1,4 +1,3 @@
-import React from 'react'
 
 import { proyectos } from '../../Data/proyectos';
 import { CardProyecto } from './CardProyecto';
@@ -15,7 +14,7 @@ export const Proyectos = () => {
                     proyectos.map(proyect => {
                         return (
                             <>
-                            <CardProyecto key={proyect.id} {...proyect} />
+                            <CardProyecto {...proyect} />
                             
                             </>
                         )
