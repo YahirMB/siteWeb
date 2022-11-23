@@ -23,7 +23,7 @@ export const MainApp = () => {
 
 			<Routes>
 
-				<Route path='/' element={<Home />} />
+				<Route path='/*' element={<Home />} />
 				<Route path='/AboutMe' element={<AboutMe />} />
 				<Route path='/Videos' element={<Contact />} />
 			</Routes>

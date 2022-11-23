@@ -121,7 +121,7 @@ body {
 .iconosd{
     color: rgb(20, 170, 45);
 }
-@media (max-width:768px) {
+@media  (max-width:768px) {
 
 
     .header {

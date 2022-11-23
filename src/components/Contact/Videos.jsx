@@ -2,8 +2,7 @@ import React from 'react'
 import ReactPlayer from 'react-player'
 // require('../../assets/')
 
-import Video from '../../../assets/proyectoEstadias.mp4'
-import Video2 from '../../../assets/VeniFoodApp.mp4'
+
 export const Videos = () => {
     return (
         <>
@@ -11,7 +10,7 @@ export const Videos = () => {
                 <p className='subtemavideo'>Proyecto de estadias</p>
                 
                 <ReactPlayer
-                    url= {Video}
+                    url='https://www.youtube.com/watch?v=jdYj8Slm3D4'
                     className='bodyVideo'
                   
                     controls
@@ -20,7 +19,7 @@ export const Videos = () => {
              <div className="col-12 col-lg-6 ">
              <p className='subtemavideo'>Proyecto de VeniFoodApp</p>
                 <ReactPlayer
-                    url= {Video2}
+                    url= 'https://www.youtube.com/watch?v=yy6lCEFjJiI'
                     className='bodyVideo'
                     
                     controls
